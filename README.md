@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **php~larvel**
 
-- 🔭 I’m currently working on a project **Sales Management System**
-
 - 📫 How to reach me **kevinrajkarki97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
