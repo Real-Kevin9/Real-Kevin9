@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Raj Karki</h1>
-<h3 align="center">A second-year student pursuing a Bachelor's Degree in Data Science at Birmingham City University.</h3>
-
+<h3 align="center">A third-year student pursuing a Bachelor's Degree in Data Science at Birmingham City University.</h3>
+<h3 align="center">Frontend Engineer Intern <strong>E-Prabidhi Pvt. Ltd.</strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-kevin9&label=Profile%20views&color=0e75b6&style=flat" alt="real-kevin9" /> </p>
 
